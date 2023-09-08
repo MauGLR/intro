@@ -61,7 +61,7 @@ $conn->close();
     <div>
         <header>
             <h1>Portfolio</h1>
-            <p1>Mustafa Unver - 088701 - D2A2</p1><br><br>
+            <p1>Mustafa Unver - 088701 - D2A</p1><br><br>
             <button onclick="location.href = './Opdrachten/opdrachten.html';" id="knopje" >Projecten</button>
         </header>
         <!-- main section einde -->
