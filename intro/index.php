@@ -67,7 +67,6 @@ $conn->close();
         <!-- main section einde -->
 
 
-
         <!-- submain section -->
         <div>
             <div id="overmij" style="
@@ -78,7 +77,7 @@ $conn->close();
     font-family: sans-serif;
     ">Over Mij</div>
 
-            <div class="flex-container">
+            <div class="flex-container2">
                 <div class="flex-text">
                     <p>Hallo, ik ben Mustafa en ben 17 jaar oud.
                         Ik volg momenteel de opleiding Software Developer op het Grafisch Lyceum Rotterdam.
@@ -90,7 +89,26 @@ $conn->close();
 
         <!-- submain section einde -->
 
+        <!-- projecten begin -->
 
+        <div>
+            <div id="projecten" style="
+    text-align: center;
+    background-color: rgb(230, 236, 250);
+    width: 100%;
+    margin: 0 auto; font-size: 50px;
+    font-family: sans-serif;
+    ">Projecten</div>
+
+            <div class="flex-container2">
+                <div> <a href="https://88701.stu.sd-lab.nl/Index/Quizzie%20V2/beter.html"><img class="foto2" src="src/quizzie.png"</a></div>
+                <div> <a href="https://88701.stu.sd-lab.nl/Index/Promote%20IT/index.html"><img class="foto2" src="src/promoteit.png"</a></div>
+                <div> <a href="https://88701.stu.sd-lab.nl/VillaTeKoop-main/Villa/index.php"><img class="foto2" src="src/villa.png"</a></div>
+                <div> <a href="https://88701.stu.sd-lab.nl/Index/Toronto%20Zoo/index.html"><img class="foto2" src="src/zoo.png"</a></div>
+            </div>
+        </div>
+
+        <!-- Projecten einde -->
 
         <!-- contact section -->
         <div id="contact" class="main-contact">

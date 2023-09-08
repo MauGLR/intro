@@ -191,6 +191,23 @@ textarea {
     background-color: rgb(230, 236, 250);
 }
 
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(230, 236, 250);
+    align-items: center;
+}
+
+.flex-container2 > div {
+    background-color: #f1f1f1;
+    width: 35%;
+    margin: 3%;
+    margin-bottom: 350px;
+    text-align: center;
+    font-size: 2.5vh;
+    background-color: rgb(230, 236, 250);
+}
+
 .flex-text {
     border: 1px black solid;
     border-radius: 10px;
@@ -205,4 +222,10 @@ textarea {
     border: none;
     width: 75%;
     height: 75%;
+}
+
+.foto2 {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
 }
